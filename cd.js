@@ -64,4 +64,4 @@ function shuffle(){
         card.style.order = randomPos;
     })
 }
-
+shuffle();
